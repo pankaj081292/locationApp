@@ -45,7 +45,7 @@ function App() {
           src="https://www.jagran.com/west-bengal/khadagpur"
           width="100%"
           height="600px"
-          title="Kharagpur News"
+          title="Kharagpur News Live"
           style={{ border: 'none' }}
         ></iframe>
         {location && (
